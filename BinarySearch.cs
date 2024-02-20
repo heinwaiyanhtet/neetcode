@@ -1,5 +1,4 @@
 public class Solution {
-
     public int BinarySearch(int[] nums, int target) {
 
         int left = 0;
