@@ -1,0 +1,15 @@
+/home/mahar/Desktop/currently_developing_projects/neetcode/Stack/bin/Debug/net6.0/Stack
+/home/mahar/Desktop/currently_developing_projects/neetcode/Stack/bin/Debug/net6.0/Stack.deps.json
+/home/mahar/Desktop/currently_developing_projects/neetcode/Stack/bin/Debug/net6.0/Stack.runtimeconfig.json
+/home/mahar/Desktop/currently_developing_projects/neetcode/Stack/bin/Debug/net6.0/Stack.dll
+/home/mahar/Desktop/currently_developing_projects/neetcode/Stack/bin/Debug/net6.0/ref/Stack.dll
+/home/mahar/Desktop/currently_developing_projects/neetcode/Stack/bin/Debug/net6.0/Stack.pdb
+/home/mahar/Desktop/currently_developing_projects/neetcode/Stack/obj/Debug/net6.0/Stack.csproj.AssemblyReference.cache
+/home/mahar/Desktop/currently_developing_projects/neetcode/Stack/obj/Debug/net6.0/Stack.GeneratedMSBuildEditorConfig.editorconfig
+/home/mahar/Desktop/currently_developing_projects/neetcode/Stack/obj/Debug/net6.0/Stack.AssemblyInfoInputs.cache
+/home/mahar/Desktop/currently_developing_projects/neetcode/Stack/obj/Debug/net6.0/Stack.AssemblyInfo.cs
+/home/mahar/Desktop/currently_developing_projects/neetcode/Stack/obj/Debug/net6.0/Stack.csproj.CoreCompileInputs.cache
+/home/mahar/Desktop/currently_developing_projects/neetcode/Stack/obj/Debug/net6.0/Stack.dll
+/home/mahar/Desktop/currently_developing_projects/neetcode/Stack/obj/Debug/net6.0/ref/Stack.dll
+/home/mahar/Desktop/currently_developing_projects/neetcode/Stack/obj/Debug/net6.0/Stack.pdb
+/home/mahar/Desktop/currently_developing_projects/neetcode/Stack/obj/Debug/net6.0/Stack.genruntimeconfig.cache
