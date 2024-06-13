@@ -31,6 +31,7 @@
 // Output: 11
 // Explanation: The original array was [11,13,15,17] and it was rotated 4 times.
 
+
 public class Solution {
     public int FindMin(int[] nums) {
         
