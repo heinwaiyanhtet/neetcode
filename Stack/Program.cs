@@ -3,16 +3,16 @@
 
 
 
-//  Valid Parentheses
 
+
+
+//  Valid Parentheses
 using System.Collections;
 
 public class Solution
 {
     public bool isValid(string words)
     {
-
-        // ([{   }])
 
         Stack myStack = new Stack(); 
 
@@ -25,6 +25,7 @@ public class Solution
 
             else
             {
+
                 if(myStack.Count == 0)
                 {
                     return false;
@@ -40,6 +41,7 @@ public class Solution
                 {
                     return false;
                 }
+
 
                 return true;
             }
@@ -69,3 +71,6 @@ public class Program{
 
     }
 }
+
+
+//Min Stack
