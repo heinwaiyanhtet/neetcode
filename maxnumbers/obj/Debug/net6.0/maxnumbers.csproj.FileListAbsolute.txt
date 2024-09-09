@@ -1,0 +1,15 @@
+/home/mahar/Desktop/currently_developing_projects/neetcode/maxnumbers/obj/Debug/net6.0/maxnumbers.csproj.AssemblyReference.cache
+/home/mahar/Desktop/currently_developing_projects/neetcode/maxnumbers/obj/Debug/net6.0/maxnumbers.GeneratedMSBuildEditorConfig.editorconfig
+/home/mahar/Desktop/currently_developing_projects/neetcode/maxnumbers/obj/Debug/net6.0/maxnumbers.AssemblyInfoInputs.cache
+/home/mahar/Desktop/currently_developing_projects/neetcode/maxnumbers/obj/Debug/net6.0/maxnumbers.AssemblyInfo.cs
+/home/mahar/Desktop/currently_developing_projects/neetcode/maxnumbers/obj/Debug/net6.0/maxnumbers.csproj.CoreCompileInputs.cache
+/home/mahar/Desktop/currently_developing_projects/neetcode/maxnumbers/bin/Debug/net6.0/maxnumbers
+/home/mahar/Desktop/currently_developing_projects/neetcode/maxnumbers/bin/Debug/net6.0/maxnumbers.deps.json
+/home/mahar/Desktop/currently_developing_projects/neetcode/maxnumbers/bin/Debug/net6.0/maxnumbers.runtimeconfig.json
+/home/mahar/Desktop/currently_developing_projects/neetcode/maxnumbers/bin/Debug/net6.0/maxnumbers.dll
+/home/mahar/Desktop/currently_developing_projects/neetcode/maxnumbers/bin/Debug/net6.0/ref/maxnumbers.dll
+/home/mahar/Desktop/currently_developing_projects/neetcode/maxnumbers/bin/Debug/net6.0/maxnumbers.pdb
+/home/mahar/Desktop/currently_developing_projects/neetcode/maxnumbers/obj/Debug/net6.0/maxnumbers.dll
+/home/mahar/Desktop/currently_developing_projects/neetcode/maxnumbers/obj/Debug/net6.0/ref/maxnumbers.dll
+/home/mahar/Desktop/currently_developing_projects/neetcode/maxnumbers/obj/Debug/net6.0/maxnumbers.pdb
+/home/mahar/Desktop/currently_developing_projects/neetcode/maxnumbers/obj/Debug/net6.0/maxnumbers.genruntimeconfig.cache
