@@ -1,5 +1,39 @@
 
 
+// complment = target - nums[i]
+// Two Sum
+function TwoSum(nums, target) 
+{
+    let map = new Map();
+
+    for (let i = 0; i < nums.length; i++) 
+    {
+        let complement = target - nums[i];
+        
+        if (map.has(complement)) 
+        {
+            return [map.get(complement), i];
+        }
+        
+        map.set(nums[i], i);
+    }
+
+}
+
+
+// function ValidAnagram
+
+function isAnagram(s, t)    
+{
+    return s.split('').sort().join('') === t.split('').sort().join('');
+}
+
+let s = "racecar";
+let t = "carrace";
+
+console.log(isAnagram(s,t));
+
+
 
 
 /// contain duplicate elements
@@ -31,12 +65,10 @@ console.log(containsDuplicate(numbers));
 
 
 
-
-
-
 // revese array
 
-function reverse(arr) {
+function reverse(arr) 
+{
 
     let n = arr.length;
 
