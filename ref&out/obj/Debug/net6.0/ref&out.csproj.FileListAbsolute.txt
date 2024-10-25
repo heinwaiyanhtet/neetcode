@@ -1,0 +1,15 @@
+/home/mahar/Desktop/currently_developing_projects/neetcode/ref&out/bin/Debug/net6.0/ref&out
+/home/mahar/Desktop/currently_developing_projects/neetcode/ref&out/bin/Debug/net6.0/ref&out.deps.json
+/home/mahar/Desktop/currently_developing_projects/neetcode/ref&out/bin/Debug/net6.0/ref&out.runtimeconfig.json
+/home/mahar/Desktop/currently_developing_projects/neetcode/ref&out/bin/Debug/net6.0/ref&out.dll
+/home/mahar/Desktop/currently_developing_projects/neetcode/ref&out/bin/Debug/net6.0/ref/ref&out.dll
+/home/mahar/Desktop/currently_developing_projects/neetcode/ref&out/bin/Debug/net6.0/ref&out.pdb
+/home/mahar/Desktop/currently_developing_projects/neetcode/ref&out/obj/Debug/net6.0/ref&out.csproj.AssemblyReference.cache
+/home/mahar/Desktop/currently_developing_projects/neetcode/ref&out/obj/Debug/net6.0/ref&out.GeneratedMSBuildEditorConfig.editorconfig
+/home/mahar/Desktop/currently_developing_projects/neetcode/ref&out/obj/Debug/net6.0/ref&out.AssemblyInfoInputs.cache
+/home/mahar/Desktop/currently_developing_projects/neetcode/ref&out/obj/Debug/net6.0/ref&out.AssemblyInfo.cs
+/home/mahar/Desktop/currently_developing_projects/neetcode/ref&out/obj/Debug/net6.0/ref&out.csproj.CoreCompileInputs.cache
+/home/mahar/Desktop/currently_developing_projects/neetcode/ref&out/obj/Debug/net6.0/ref&out.dll
+/home/mahar/Desktop/currently_developing_projects/neetcode/ref&out/obj/Debug/net6.0/ref/ref&out.dll
+/home/mahar/Desktop/currently_developing_projects/neetcode/ref&out/obj/Debug/net6.0/ref&out.pdb
+/home/mahar/Desktop/currently_developing_projects/neetcode/ref&out/obj/Debug/net6.0/ref&out.genruntimeconfig.cache
